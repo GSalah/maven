@@ -6,7 +6,7 @@
     <groupId>net.java</groupId>
     <artifactId>cargo-tracker</artifactId>
     <version>2.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>cargo-tracker</name>
     <url>https://github.com/javaee/cargotracker/</url>
