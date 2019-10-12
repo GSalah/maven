@@ -1,0 +1,11 @@
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/application/BookingServiceTestRestConfiguration.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/application/BookingServiceTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/application/HandlingEventServiceTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/application/BookingServiceTestDataGenerator.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/domain/model/handling/HandlingHistoryTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/scenario/CargoLifecycleScenarioTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/infrastructure/routing/ExternalRoutingServiceTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/domain/model/cargo/RouteSpecificationTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/domain/model/handling/HandlingEventTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/domain/model/cargo/CargoTest.java
+/home/gateau/5ArcTic/mavengit/src/test/java/net/java/cargotracker/domain/model/cargo/ItineraryTest.java
